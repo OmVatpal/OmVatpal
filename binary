@@ -1,0 +1,86 @@
+Node inserted successfully! 
+ 
+Menu: 
+1. Insert a new node 
+2. Find the number of nodes in longest path from root 
+3. Find the minimum data value in the tree 
+4. Swap the left and right pointers at every node 
+5. Search a value 
+6. Exit 
+Enter your choice: 1 
+Enter the value to be inserted: 123 
+Node inserted successfully! 
+ 
+Menu: 
+1. Insert a new node 
+2. Find the number of nodes in longest path from root 
+3. Find the minimum data value in the tree 
+4. Swap the left and right pointers at every node 
+5. Search a value 
+6. Exit 
+Enter your choice: 1 
+Enter the value to be inserted: 1234 
+Node inserted successfully! 
+ 
+Menu: 
+1. Insert a new node 
+2. Find the number of nodes in longest path from root 
+3. Find the minimum data value in the tree 
+4. Swap the left and right pointers at every node 
+5. Search a value 
+6. Exit 
+Enter your choice: 1 
+Enter the value to be inserted: 1234 
+Node inserted successfully! 
+ 
+Menu: 
+1. Insert a new node 
+2. Find the number of nodes in longest path from root 
+3. Find the minimum data value in the tree 
+4. Swap the left and right pointers at every node 
+5. Search a value 
+6. Exit 
+Enter your choice: 2 
+The number of nodes in the longest path from root is: 2 
+ 
+Menu: 
+1. Insert a new node 
+2. Find the number of nodes in longest path from root 
+3. Find the minimum data value in the tree 
+4. Swap the left and right pointers at every node 
+5. Search a value 
+6. Exit 
+Enter your choice: 3 
+The minimum data value in the tree is: 123 
+ 
+Menu: 
+1. Insert a new node 
+2. Find the number of nodes in longest path from root 
+3. Find the minimum data value in the tree 
+4. Swap the left and right pointers at every node 
+5. Search a value 
+6. Exit 
+Enter your choice: 4 
+The tree has been swapped successfully! 
+ 
+Menu: 
+1. Insert a new node 
+2. Find the number of nodes in longest path from root 
+3. Find the minimum data value in the tree 
+4. Swap the left and right pointers at every node 
+5. Search a value 
+6. Exit 
+Enter your choice: 5 
+Enter the value to be searched: 1234 
+The value 1234 is not present in the tree. 
+ 
+Menu: 
+1. Insert a new node 
+2. Find the number of nodes in longest path from root 
+3. Find the minimum data value in the tree 
+4. Swap the left and right pointers at every node 
+5. Search a value 
+6. Exit 
+Enter your choice: 6 
+Exiting... 
+*/
